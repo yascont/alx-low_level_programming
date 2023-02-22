@@ -1,3 +1,5 @@
+/* to print _putchar */
+
 #include "main.h"
 
 
