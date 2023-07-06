@@ -2,6 +2,7 @@
 
 /**
  * get_endianness - checks the endianness
+ * Return: char.
  */
 int get_endianness(void)
 {
